@@ -1,0 +1,10 @@
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\bin\Debug\MyFirstPlugin.dll
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\bin\Debug\MyFirstPlugin.pdb
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\bin\Debug\PhotonHivePlugin.dll
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\bin\Debug\PhotonHivePlugin.pdb
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.csproj.AssemblyReference.cache
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.csproj.CoreCompileInputs.cache
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.csproj.CopyComplete
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.dll
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.pdb
+D:\Amrit\Work\Photon\Downloads\Plugin\src-server\Plugins\MyFirstPlugin\bin\Debug\Newtonsoft.Json.dll
